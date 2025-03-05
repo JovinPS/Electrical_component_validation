@@ -1,0 +1,1 @@
+# Electrical_component_validation
